@@ -10,3 +10,8 @@ Listing article feature test
 - create 2 articles to display
 - list the two articles
 - expect both title and body of the two articles to display
+
+Showing article test
+- create branch
+- create 1 article to display
+- show artilce title and details
