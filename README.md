@@ -17,7 +17,7 @@ Showing article test
 - show artilce title and details
 
 Restrict actions
-- Hide the "Create Article" from non signed in visitors
+- Hide the "New Article" from none signed in visitors
 - Hide the edit and delete button from non article owner
 - Permit the owners to edit or delete their own articles
 
