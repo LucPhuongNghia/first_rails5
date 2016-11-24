@@ -15,3 +15,9 @@ Showing article test
 - create branch
 - create 1 article to display
 - show artilce title and details
+
+Restrict actions
+- Hide the "Create Article" from non signed in visitors
+- Hide the edit and delete button from non article owner
+- Permit the owners to edit or delete their own articles
+
